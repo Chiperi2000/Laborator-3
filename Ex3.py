@@ -4,4 +4,4 @@
 
 Numele_si_prenumele = input("Scrieti numele si prenumele: ")
 print("Numele:",Numele_si_prenumele.split(" ",1)[0] )
-print("Prenumele:",Numele_si_prenumele.split(" ",1)[1] )
+print("Prenumele:",Numele_si_prenumele.split(" ",1)[1])
