@@ -1,0 +1,1 @@
+#Scrieți un program care va determina valoarea ipotenuzei unui triunghi dreptunghic, valorile catetelor citindu-se de la tastatură.
